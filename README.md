@@ -2,7 +2,7 @@
 Delving into the realm of Deep learning techniques of machine learning.
 
 # [Convolutional Neural Network for Digit Recognition with K-Fold Cross-Validation]
-### [Notebook](Digit Recognizer CNN K-Fold.ipynb)
+### [Notebook](https://github.com/Mugabe-Hillary/Deep_Learning/blob/d83ad74d02d480717361208991fec1a2ad28d54d/Digit%20Recognizer%20CNN%20K-Fold.ipynb)
 
 ## Model Overview
 This model is a **Convolutional Neural Network (CNN)** designed for the **Digit Recognition** task using the **MNIST dataset**. It uses **K-Fold Cross-Validation** to ensure generalization and stability of the model's performance across different subsets of the data.
