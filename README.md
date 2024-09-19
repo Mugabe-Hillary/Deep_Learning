@@ -1,7 +1,7 @@
 # Deep_Learning
 Delving into the realm of Deep learning techniques of machine learning.
 
-# [Convolutional Neural Network for Digit Recognition with K-Fold Cross-Validation]
+# Convolutional Neural Network for Digit Recognition with K-Fold Cross-Validation
 ### [Notebook](https://github.com/Mugabe-Hillary/Deep_Learning/blob/d83ad74d02d480717361208991fec1a2ad28d54d/Digit%20Recognizer%20CNN%20K-Fold.ipynb)
 
 ## Model Overview
